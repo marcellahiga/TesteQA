@@ -5,7 +5,6 @@
 // Esteja responsivo em  desktop, IOS, android (não mais importante mas não esquecer de validar)
 
 # Crie os planos de testes:
-Criei um plano de teste para cada um dos 3 KBF definidos na etapa anterior.
 Caminho básico, acessar: https://www.ze.delivery/
 
 * Caso de uso 1: Endereço de entrega
