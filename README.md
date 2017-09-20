@@ -7,12 +7,10 @@
 # Crie os planos de testes:
 Caminho básico, acessar: https://www.ze.delivery/
 
-* Caso de uso 1: Endereço de entrega
-Validar o campo "Endereço de Entrega": Incluir endereço invalidos
+* Caso de uso 1: Endereço de entrega/Validar o campo "Endereço de Entrega": Incluir endereço invalidos
 Resultado esperado: Não permitir incluir endereço invalido
 
-Validar o campo "Endereço de Entrega": Incluir endereço validos
-Resultado esperado: Localizar local de entrega
+Validar o campo "Endereço de Entrega": Incluir endereço validos/Resultado esperado: Localizar local de entrega
 
 * Caso de uso 2: Login do usuário
 Cadastrar email e senha: informar todos os dados necessários para o cadastro
