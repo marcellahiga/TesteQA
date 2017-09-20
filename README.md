@@ -9,22 +9,25 @@ Criei um plano de teste para cada um dos 3 KBF definidos na etapa anterior.
 Caminho básico, acessar: https://www.ze.delivery/
 
 * Caso de uso 1: Endereço de entrega
-# Validar o campo "Endereço de Entrega": Incluir endereço invalidos
+Validar o campo "Endereço de Entrega": Incluir endereço invalidos
 Resultado esperado: Não permitir incluir endereço invalido
-# Validar o campo "Endereço de Entrega": Incluir endereço validos
+
+Validar o campo "Endereço de Entrega": Incluir endereço validos
 Resultado esperado: Localizar local de entrega
 
 * Caso de uso 2: Login do usuário
-# Cadastrar email e senha: informar todos os dados necessários para o cadastro
+Cadastrar email e senha: informar todos os dados necessários para o cadastro
 Resultado esperado: acessar o site com email cadastrado e senha
-# Logar com o Facebook: informar usuário e senha do Facebook
+
+Logar com o Facebook: informar usuário e senha do Facebook
 Resultado esperado: acessar o site com usuário do Facebook
 
 * Caso de uso 3: Validar Pedido
-# Quantidade
+Quantidade
 Incluir produtos
 Resultado esperado: Verificar se o Total está sendo exibido corretamente de acordo com os produtos selecionados
-# Formas de Pagamento
+
+Formas de Pagamento
 Exibir 3 formas de pagamentos (Credito, Debito e dinheiro)
 Verificar cada forma de pagamento
 Resultado esperado: Todas as formas de pagamentos disponiveis estejam permitindo a compra
